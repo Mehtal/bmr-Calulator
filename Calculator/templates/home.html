@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Base Metabolic Rate Calculator</title>
+</head>
+<body>
+	<h1>Bmr Calculator</h1>
+	<p>Height in cm</p>
+	<p>Weight in Kg</p>
+	<p>Age in Years</p>
+	<form action="." method="POST">
+		{% csrf_token %}
+		{{ form.as_ul }}
+		<button type="submit">Submit</button>
+	</form>
+
+</body>
+</html>

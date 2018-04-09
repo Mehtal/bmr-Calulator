@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Bmr",
+				"BmrCalc"
+			],
+			[
+				"C",
+				"CalcView"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Bm",
+				"BmrForm"
+			],
+			[
+				"B",
+				"BmrCalc"
+			],
+			[
+				"ge",
+				"gender_choices"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"flex-",
+				"flex-row"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"rec",
+				"reciption_choice"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"dead",
+				"deadline1"
+			],
+			[
+				"deposi",
+				"deposite1"
+			],
+			[
+				"deal",
+				"deadline1"
+			],
+			[
+				"In",
+				"IntegerField"
+			],
+			[
+				"de",
+				"deposite1"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"Us",
+				"UserForm"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"User",
+				"UserCreationForm"
+			],
+			[
+				"b",
+				"birth_day"
+			],
+			[
+				"width",
+				"max-width"
+			],
+			[
+				"Stu",
+				"StudentProfileAdmin"
+			],
+			[
+				"cs",
+				"csrf_protect"
+			],
+			[
+				"PR",
+				"ProfileForm"
+			],
+			[
+				"USer",
+				"UserForm"
+			],
+			[
+				"S",
+				"StudentProfileListView"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/lelouch/Desktop/venv/src"
+	],
+	"file_history":
+	[
+		"/home/lelouch/Desktop/lefit/src/bmr/admin.py",
+		"/home/lelouch/Desktop/ecole/src/requirements.txt",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/navbar-loggedin.html",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_misc.scss",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/accounts/base.html",
+		"/home/lelouch/Desktop/ecole/src/accounts/models.py",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/accounts/profile.html",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/accounts/update.html",
+		"/home/lelouch/Desktop/ecole/src/events/views.py",
+		"/home/lelouch/Desktop/ecole/src/events/templates/events/event_form.html",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/accounts/right-section.html",
+		"/home/lelouch/Desktop/ecole/src/accounts/forms.py",
+		"/home/lelouch/Desktop/ecole/src/events/context_processors.py",
+		"/home/lelouch/Desktop/ecole/src/accounts/urls.py",
+		"/home/lelouch/Desktop/ecole/src/events/models.py",
+		"/home/lelouch/Desktop/ecole/src/school/urls.py",
+		"/home/lelouch/Desktop/ecole/src/events/urls.py",
+		"/home/lelouch/Desktop/ecole/src/blog/urls.py",
+		"/home/lelouch/Desktop/ecole/src/accounts/views.py",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_dropdown.scss",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_variables.scss",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_inputs.scss",
+		"/home/lelouch/Desktop/ecole/static/static/js/plugins/bootstrap-datepicker.js",
+		"/home/lelouch/Desktop/ecole/src/school/settings.py",
+		"/home/lelouch/Desktop/ecole/src/blog/api/views.py",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/accounts/home_list.html",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/accounts/mid-section.html",
+		"/home/lelouch/Desktop/ecole/src/blog/templates/post_detail.html",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/accounts/grade.html",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/accounts/left-section.html",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/mixins/_datepicker.scss",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/plugins/_plugin-datepicker.scss",
+		"/home/lelouch/Desktop/ecole/src/blog/models.py",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_checkboxes-radio.scss",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_mixins.scss",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_example-pages.scss",
+		"/home/lelouch/Desktop/ecole/src/blog/api/urls.py",
+		"/home/lelouch/Desktop/ecole/src/blog/views.py",
+		"/home/lelouch/Desktop/ecole/src/accounts/api/serializers.py",
+		"/home/lelouch/Desktop/ecole/src/marks/models.py",
+		"/home/lelouch/Desktop/ecole/src/blog/admin.py",
+		"/home/lelouch/Desktop/ecole/src/blog/forms.py",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_carousel.scss",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_responsive.scss",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_navbar.scss",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/accounts/home.html",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_sections.scss",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_buttons.scss",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/accounts/login.html",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/accounts/signup.html",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_cards.scss",
+		"/home/lelouch/Desktop/ecole/static/static/sass/now-ui-kit/_typography.scss",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/navbar-loggedout.html",
+		"/home/lelouch/Desktop/ecole/src/marks/templates/teacher_dropdown_list_options.html",
+		"/home/lelouch/Desktop/ecole/src/marks/templates/marks_update.html",
+		"/home/lelouch/Desktop/ecole/src/marks/views.py",
+		"/home/lelouch/Desktop/ecole/src/marks/forms.py",
+		"/home/lelouch/Desktop/ecole/src/marks/templates/marks_create.html",
+		"/home/lelouch/Desktop/ecole/src/marks/urls.py",
+		"/home/lelouch/Desktop/ecole/src/blog/templates/post_list.html",
+		"/home/lelouch/Desktop/ecole/src/marks/templates/marks_list.html",
+		"/home/lelouch/Desktop/ecole/src/blog/templates/posts_update_form.html",
+		"/home/lelouch/Desktop/ecole/src/grades/models.py",
+		"/home/lelouch/Desktop/ecole/src/blog/api/serializers.py",
+		"/home/lelouch/Desktop/ecole/src/blog/templates/post_create.html",
+		"/home/lelouch/Desktop/ecole/src/accounts/api/__init__.py",
+		"/home/lelouch/Desktop/ecole/src/blog/api/__init__.py",
+		"/home/lelouch/Desktop/ecole/src/Grades/views.py",
+		"/home/lelouch/Desktop/ecole/src/marks/admin.py",
+		"/home/lelouch/Desktop/ecole/src/Grades/admin.py",
+		"/home/lelouch/Desktop/ecole/src/Grades/models.py",
+		"/home/lelouch/Desktop/ecole/src/grades/admin.py",
+		"/home/lelouch/Desktop/ecole/src/events/migrations/0001_initial.py",
+		"/home/lelouch/Desktop/ecole/src/accounts/admin.py",
+		"/home/lelouch/Desktop/ecole/src/events/admin.py",
+		"/home/lelouch/Desktop/ecole/src/accounts/templates/accounts/profile-page.html",
+		"/home/lelouch/Desktop/ecole/src/profiles/views.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/templates/accounts/profile_list.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/templates/accounts/home.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/templates/accounts/login.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/level/admin.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/views.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/Blog/templates/post_list.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/level/migrations/0021_auto_20180201_2252.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/Blog/views.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/Blog/forms.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/Blog/models.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/Blog/urls.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/templates/navbar-loggedin.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/templates/accounts/profile.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/Blog/templates/posts_update_form.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/Blog/templates/post_detail.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/urls.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/aladin/urls.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/Blog/admin.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/aladin/settings.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/static/static/sass/now-ui-kit/_misc.scss",
+		"/home/lelouch/Desktop/AladinPrivateSchool/static/static/sass/now-ui-kit/_sections.scss",
+		"/home/lelouch/Desktop/AladinPrivateSchool/static/static/sass/now-ui-kit/_example-pages.scss",
+		"/home/lelouch/Desktop/AladinPrivateSchool/static/static/sass/now-ui-kit.scss",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/level/views.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/forms.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/models.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/level/models.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/level/urls.py",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/templates/accounts/profile-page.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/templates/accounts/base.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/static/static/sass/now-ui-kit/_variables.scss",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/templates/accounts/login-page.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/templates/navbar-loggedout.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/templates/accounts/signup.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/static/static/sass/now-ui-kit/_inputs.scss",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/templates/accounts/update.html",
+		"/home/lelouch/Desktop/AladinPrivateSchool/src/accounts/admin.py",
+		"/home/lelouch/Desktop/z/src/accounts/admin.py",
+		"/home/lelouch/Desktop/z/src/accounts/models.py",
+		"/home/lelouch/Desktop/z/src/my_project/urls.py",
+		"/home/lelouch/Desktop/z/src/my_project/settings.py",
+		"/home/lelouch/Desktop/testit/src/MyProject/urls.py",
+		"/home/lelouch/Desktop/testit/src/accounts/models.py",
+		"/home/lelouch/Desktop/testit/src/accounts/templates/accounts/profile.html",
+		"/home/lelouch/Desktop/testit/src/MyProject/settings.py",
+		"/home/lelouch/Desktop/testit/src/accounts/urls.py",
+		"/home/lelouch/Desktop/testit/src/accounts/templates/accounts/uprofile.html",
+		"/home/lelouch/Desktop/testit/src/accounts/templates/accounts/home.html",
+		"/home/lelouch/Desktop/testit/src/accounts/admin.py",
+		"/home/lelouch/Desktop/testit/src/accounts/forms.py",
+		"/home/lelouch/Desktop/testit/src/accounts/templates/registration/signup.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/lelouch/Desktop/venv/src"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
